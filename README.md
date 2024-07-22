@@ -10,7 +10,7 @@
 <a href='https://000-hack-web.vercel.app/' target="_blank"><img alt='✨️🧑‍💻Aɳʝαɳ ʂҽɾ✨️🧑‍💻' src='https://img.shields.io/badge/✨️Anjan dhar✨️_-10000000?style=for-the-badge&logo= ✨️🧑‍💻Aɳʝαɳ ԃԋαɾ✨️🧑‍💻&logoColor=white&labelColor=darkred&color=darkblue'/></a>
 
 <br>
-
+ 
 
 <h1 align="center"><b>✨️🧑‍💻Reach Me Out✨️🧑‍💻</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="55"></h1>
 
